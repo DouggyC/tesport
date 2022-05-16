@@ -1,0 +1,48 @@
+$primary-color: #f7e5e4;
+
+@import 'animate.css';
+
+// @font-face {
+//   font-family: 'Helvetica Neue';
+//   src: url('./assets/fonts/helvetica-neu.ttf') format('ttf');
+// }
+
+// @font-face {
+//   font-family: 'La Belle Aurore';
+//   src: url('./assets/fonts/LaBelleAurore.woff2') format('woff2'),
+//     url('./assets/fonts/LaBelleAurore.woff') format('woff');
+// }
+
+// @font-face {
+//   font-family: 'Coolvetica';
+//   src: url('./assets/fonts/CoolveticaRg-Regular.woff2') format('woff2'),
+//     url('./assets/fonts/CoolveticaRg-Regular.woff') format('woff');
+// }
+
+input,
+textarea {
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+body {
+  background-color:#f7e5e4;
+}
+
+// @media only screen and (max-width: 570px ) {
+//   .heading {
+//       font-size: 80%;
+//   }
+//   .sub-heading{
+//       font-size: 200%;
+//   }
+//   p {
+//       font-size: 200%;
+//   }
+
+//   h2 {
+//       font-size: 300%;
+//   }
+//   .card-container{
+//       height: auto;
+//   }
+// } 
