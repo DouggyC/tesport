@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/tesport/static/css/main.5f419cdc.css",
+    "main.js": "/tesport/static/js/main.297f445c.js",
+    "static/media/background-img.webp": "/tesport/static/media/background-img.2477e883a179cdc85a5e.webp",
+    "static/media/weather-app-look.png": "/tesport/static/media/weather-app-look.1b989345160cdcb5c357.png",
+    "static/media/cryptomuggles-logo.png": "/tesport/static/media/cryptomuggles-logo.5dba46069eac65ec46f4.png",
+    "index.html": "/tesport/index.html",
+    "main.5f419cdc.css.map": "/tesport/static/css/main.5f419cdc.css.map",
+    "main.297f445c.js.map": "/tesport/static/js/main.297f445c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5f419cdc.css",
+    "static/js/main.297f445c.js"
+  ]
+}
